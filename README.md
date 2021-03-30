@@ -61,4 +61,6 @@ Alderucci and Ashley, 2020, [Using AI to Analyze Patent Claim Indefiniteness](ht
 
 ## Datasets
 
+[PatentMatch: A Dataset for Matching Patent Claims & Prior Art](https://hpi.de/naumann/projects/web-science/paar-patent-analysis-and-retrieval/patentmatch.html)
+
 ## Patent databases
