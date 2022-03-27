@@ -8,6 +8,7 @@ Curated list of resources for patent data mining
 * [USPTO PatentsView API](https://patentsview.org/apis/api-endpoints)
 * [Espacenet Open Patent Services](https://www.epo.org/searching-for-patents/data/web-services/ops.html)
 * [Google Patents Public Datasets](https://console.cloud.google.com/marketplace/product/google_patents_public_datasets/google-patents-public-data)
+* [PQAI](https://api.projectpq.ai/docs)
 
 ### Data dumps
 * [USPTO data dumps](https://www.uspto.gov/learning-and-resources/bulk-data-products)
