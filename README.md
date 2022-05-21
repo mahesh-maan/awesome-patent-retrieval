@@ -21,7 +21,13 @@ Curated list of resources for patent data mining
 (WIP)
 
 ## Websites of national patent offices
-(WIP)
+* [USPTO](https://www.uspto.gov/)
+* [Eurpoean Patent Office](https://www.epo.org/)
+* [Singapore Patent Office](https://www.ipos.gov.sg/) (IPOS)
+* [IP Australia](https://www.ipaustralia.gov.au/)
+* [United Kingdom IP Office](https://www.gov.uk/government/organisations/intellectual-property-office)
+* [Indian Patent Office](https://ipindia.gov.in/)
+* [Korean Patent Office](https://www.kipo.go.kr/en/MainApp)
 
 ## Commercial patent databases
 (WIP)
