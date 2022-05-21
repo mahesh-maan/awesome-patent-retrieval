@@ -30,6 +30,8 @@ Curated list of resources for patent data mining
 (WIP)
 
 ## Research papers
+* Freunek and Bodmer, 2021, [BERT based freedom to operate patent analysis](https://arxiv.org/pdf/2105.00817)
+* Freunek and Bodmer, 2021, [BERT based patent novelty search by training claims to their own description](https://arxiv.org/pdf/2103.01126)
 * Harris et al., 2020, [Construction and evaluation of gold standards for patent classification—A case study on quantum computing](https://www.sciencedirect.com/science/article/pii/S0172219019300791)
 * Lu et al., 2020, [Research on classification and similarity of patent citation based on deep learning](https://link.springer.com/article/10.1007/s11192-020-03385-w)
 * Alderucci and Ashley, 2020, [Using AI to Analyze Patent Claim Indefiniteness](https://www.repository.law.indiana.edu/cgi/viewcontent.cgi?article=1051&context=ipt)
