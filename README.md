@@ -36,6 +36,7 @@ Curated list of resources for patent data mining
 (WIP)
 
 ## Research papers
+* Giczy et al., 2021, [Identifying](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3866793)
 * Freunek and Bodmer, 2021, [BERT based freedom to operate patent analysis](https://arxiv.org/pdf/2105.00817)
 * Freunek and Bodmer, 2021, [BERT based patent novelty search by training claims to their own description](https://arxiv.org/pdf/2103.01126)
 * Harris et al., 2020, [Construction and evaluation of gold standards for patent classification—A case study on quantum computing](https://www.sciencedirect.com/science/article/pii/S0172219019300791)
