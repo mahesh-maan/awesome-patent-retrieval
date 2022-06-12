@@ -8,32 +8,60 @@ Curated list of resources for patent data mining
 * [USPTO PatentsView API](https://patentsview.org/apis/api-endpoints)
 * [Espacenet Open Patent Services](https://www.epo.org/searching-for-patents/data/web-services/ops.html)
 * [Google Patents Public Datasets](https://console.cloud.google.com/marketplace/product/google_patents_public_datasets/google-patents-public-data)
-* [PQAI](https://api.projectpq.ai/docs)
+* [PQAI API](https://api.projectpq.ai/docs)
+* [Lens API](https://www.lens.org/lens/user/subscriptions#patents)
 
 ### Data dumps
 * [USPTO data dumps](https://www.uspto.gov/learning-and-resources/bulk-data-products)
 * [USPTO Patent's View](https://patentsview.org/download/data-download-tables)
 
 ## Datasets
-[PatentMatch: A Dataset for Matching Patent Claims & Prior Art](https://hpi.de/naumann/projects/web-science/paar-patent-analysis-and-retrieval/patentmatch.html)
+* [PatentMatch: A Dataset for Matching Patent Claims & Prior Art](https://hpi.de/naumann/projects/web-science/paar-patent-analysis-and-retrieval/patentmatch.html)
+* [Patent Classification Gold Standard (Qubit Dataset)](https://github.com/swh/classification-gold-standard)
 
-## Github repositories
-(WIP)
+## Github Repositories
 
-## Websites of national patent offices
-* [USPTO](https://www.uspto.gov/)
-* [Eurpoean Patent Office](https://www.epo.org/)
-* [Singapore Patent Office](https://www.ipos.gov.sg/) (IPOS)
+* [PQAI](https://github.com/pqaidevteam/pqai)
+* [PatZilla](https://github.com/ip-tools/patzilla)
+
+## Websites of patent offices
+
+* [United States Patent and Trademark Office (USPTO)](https://www.uspto.gov/)
+* [Eurpoean Patent Office (EPO)](https://www.epo.org/)
+* [Singapore Patent Office (IPOS)](https://www.ipos.gov.sg/)
 * [IP Australia](https://www.ipaustralia.gov.au/)
 * [United Kingdom IP Office](https://www.gov.uk/government/organisations/intellectual-property-office)
 * [Indian Patent Office](https://ipindia.gov.in/)
 * [Korean Patent Office](https://www.kipo.go.kr/en/MainApp)
+* [World Intellectual Property Organization (WIPO)](https://www.wipo.int/)
+* [Japan Patent Office (JPO)](https://www.jpo.go.jp/e/)
+* [China National Intellectual Property Administration](https://english.cnipa.gov.cn/)
 
-## Commercial patent databases
-(WIP)
+## Free patent search engines
 
-## Free patent databases
-(WIP)
+* [Google Patents](https://patents.google.com/)
+* [Lens](https://lens.org/)
+* [PQAI](https://search.projectpq.ai/)
+* [Free Patents Online (FPO)](https://www.freepatentsonline.com/search.html)
+* [Espacenet](https://worldwide.espacenet.com/)
+* [JPlatPat](https://www.j-platpat.inpit.go.jp/) (only Japanese patents)
+* [KIPRIS](http://eng.kipris.or.kr/enghome/main.jsp) (only Korean patents)
+* [SIPO](http://ensearch.cnipr.com.cn/sipo_EN/) (only Chinese patents)
+* [PatentField](https://en.patentfield.com/)
+
+## Commercial patent search engines
+
+* [Derwent Innovation](https://www.derwentinnovation.com/login/)
+* [Patsnap](https://www.patsnap.com/)
+* [PatentInspiration](https://www.patentinspiration.com/)
+* [PatBase](https://www.patbase.com/login.asp)
+* [PatSeer](https://patseer.com/)
+* [PatentGuru](https://www.patentguru.com/)
+* [Amplified AI](https://www.amplified.ai/)
+* [IPRally](https://www.iprally.com/)
+* [InnovationQ Plus](https://ip.com/products/innovationq/)
+* [xlscout](https://xlscout.ai/#apps)
+* [Orbit Intelligence](https://orbit.com/)
 
 ## Research papers
 * Giczy et al., 2021, [Identifying Artificial Intelligence (AI) Invention: A Novel AI Patent Dataset](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3866793)
