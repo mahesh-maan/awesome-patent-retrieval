@@ -64,9 +64,17 @@ Curated list of resources for patent data mining
 * [Orbit Intelligence](https://orbit.com/)
 
 ## Research papers
+* Roudsari et al., 2022, [PatentNet: multi-label classification of patent documents using deep learning based language understanding](https://link.springer.com/article/10.1007/s11192-021-04179-4)
+* Choi et al., 2022, [Deep learning for patent landscaping using transformer and graph embedding](https://www.sciencedirect.com/science/article/abs/pii/S0040162521008441)
+* Chi and Wang, 2022, [Establish a patent risk prediction model for emerging technologies using deep learning and data augmentation](https://www.sciencedirect.com/science/article/abs/pii/S1474034621002585)
+* Aristodemou, 2021, [Identifying Valuable Patents: A Deep Learning Approach](https://www.repository.cam.ac.uk/handle/1810/321946)
+* Krestel et al., 2021, [A survey on deep learning for patent analysis](https://www.researchgate.net/profile/Ralf-Krestel/publication/350523275_A_survey_on_deep_learning_for_patent_analysis/links/6093f15e92851c490fbc9660/A-survey-on-deep-learning-for-patent-analysis.pdf)
+* Chikkamath et al., 2021, [Patent Sentiment Analysis to Highlight Patent Paragraphs](https://arxiv.org/pdf/2111.09741.pdf)
+* Yoo et al., 2021, [Artificial Intelligence Technology analysis using Artificial Intelligence patent through Deep Learning model and vector space model](https://arxiv.org/pdf/2111.11295)
 * Giczy et al., 2021, [Identifying Artificial Intelligence (AI) Invention: A Novel AI Patent Dataset](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3866793)
 * Freunek and Bodmer, 2021, [BERT based freedom to operate patent analysis](https://arxiv.org/pdf/2105.00817)
 * Freunek and Bodmer, 2021, [BERT based patent novelty search by training claims to their own description](https://arxiv.org/pdf/2103.01126)
+* Chikkamath et al., 2021, [An Empirical Study on Patent Novelty Detection: A Novel Approach Using Machine Learning and Natural Language Processing](https://ieeexplore.ieee.org/abstract/document/9336557)
 * Harris et al., 2020, [Construction and evaluation of gold standards for patent classification—A case study on quantum computing](https://www.sciencedirect.com/science/article/pii/S0172219019300791)
 * Lu et al., 2020, [Research on classification and similarity of patent citation based on deep learning](https://link.springer.com/article/10.1007/s11192-020-03385-w)
 * Alderucci and Ashley, 2020, [Using AI to Analyze Patent Claim Indefiniteness](https://www.repository.law.indiana.edu/cgi/viewcontent.cgi?article=1051&context=ipt)
