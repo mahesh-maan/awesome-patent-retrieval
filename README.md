@@ -11,11 +11,11 @@ Curated list of resources for patent data mining
 * [PQAI API](https://api.projectpq.ai/docs)
 * [Lens API](https://www.lens.org/lens/user/subscriptions#patents)
 
-### Data dumps
+### PATENT Data dumps
 * [USPTO data dumps](https://www.uspto.gov/learning-and-resources/bulk-data-products)
 * [USPTO Patent's View](https://patentsview.org/download/data-download-tables)
 
-## Datasets
+## Datasets for training/benchmarking
 * [PatentMatch: A Dataset for Matching Patent Claims & Prior Art](https://hpi.de/naumann/projects/web-science/paar-patent-analysis-and-retrieval/patentmatch.html)
 * [Patent Classification Gold Standard (Qubit Dataset)](https://github.com/swh/classification-gold-standard)
 
@@ -23,6 +23,8 @@ Curated list of resources for patent data mining
 
 * [PQAI](https://github.com/pqaidevteam/pqai)
 * [PatZilla](https://github.com/ip-tools/patzilla)
+* [BERT for Patents](https://github.com/google/patents-public-data/blob/master/models/BERT%20for%20Patents.md)
+* [USPTO Open Data Python](https://github.com/ip-tools/uspto-opendata-python)
 
 ## Websites of patent offices
 
