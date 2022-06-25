@@ -46,10 +46,12 @@ Curated list of resources for patent data mining
 * [PQAI](https://search.projectpq.ai/)
 * [Free Patents Online (FPO)](https://www.freepatentsonline.com/search.html)
 * [Espacenet](https://worldwide.espacenet.com/)
+* [PATENTSCOPE](https://www.wipo.int/patentscope/en/)
 * [JPlatPat](https://www.j-platpat.inpit.go.jp/) (only Japanese patents)
 * [KIPRIS](http://eng.kipris.or.kr/enghome/main.jsp) (only Korean patents)
 * [SIPO](http://ensearch.cnipr.com.cn/sipo_EN/) (only Chinese patents)
 * [PatentField](https://en.patentfield.com/)
+* [IP Screener](https://ipscreener.com/)
 
 ## Commercial patent search engines
 
@@ -64,6 +66,7 @@ Curated list of resources for patent data mining
 * [InnovationQ Plus](https://ip.com/products/innovationq/)
 * [xlscout](https://xlscout.ai/#apps)
 * [Orbit Intelligence](https://orbit.com/)
+* [Dorothy AI](https://www.dorothyai.com/)
 
 ## Research papers
 * Roudsari et al., 2022, [PatentNet: multi-label classification of patent documents using deep learning based language understanding](https://link.springer.com/article/10.1007/s11192-021-04179-4)
