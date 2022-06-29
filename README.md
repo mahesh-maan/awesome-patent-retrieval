@@ -67,6 +67,7 @@ Curated list of resources for patent data mining
 * [xlscout](https://xlscout.ai/#apps)
 * [Orbit Intelligence](https://orbit.com/)
 * [Dorothy AI](https://www.dorothyai.com/)
+* [Similari](https://similari.com/)
 
 ## Research papers
 * Roudsari et al., 2022, [PatentNet: multi-label classification of patent documents using deep learning based language understanding](https://link.springer.com/article/10.1007/s11192-021-04179-4)
