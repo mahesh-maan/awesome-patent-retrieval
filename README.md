@@ -103,6 +103,7 @@ Curated list of resources for patent data mining
 * Hu et al., 2018, [A Hierarchical Feature Extraction Model for Multi-label Mechanical Patent Classification](https://www.mdpi.com/2071-1050/10/1/219)
 * Abood and Feltenberger, 2018, [Automated Patent Landscaping](https://link.springer.com/article/10.1007/s10506-018-9222-4)
 * Showkatramani et al., 2018, [User Interface for Managing and Refining Related Patent Terms](https://www.springerprofessional.de/en/user-interface-for-managing-and-refining-related-patent-terms/15895590)
+* Tran and Kavuluru, 2017, [Supervised approaches to assign cooperative patent classification (cpc) codes to patents](http://protocols.netlab.uky.edu/~rvkavu2/research/cpc-mike-17.pdf)
 * Kravets et al., 2017, [Patents Images Retrieval and Convolutional Network Training Dataset Quality Improvement](https://www.atlantis-press.com/proceedings/itsmssm-17/25887890)
 * Seneviratne et al., 2017, [An initial study of anchor selection in patent link discovery](https://www.cs.otago.ac.nz/homepages/andrew/papers/2017-13.pdf)
 * Khode and Jambhorkar, 2017, [A literature review on patent information retrieval techniques](https://sciresol.s3.us-east-2.amazonaws.com/IJST/Articles/2017/Issue-37/Article2.pdf)
@@ -123,3 +124,4 @@ Curated list of resources for patent data mining
 * Cai et al., 2010, [A KNN Research Paper Classification Method Based on Shared Nearest Neighbor](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings8/NTCIR/07-NTCIR8-PATMN-CaiY.pdf)
 * Urbain and Frieder, 2010, [Exploring contextual models in chemical patent search](https://www.researchgate.net/profile/Jay-Urbain/publication/221309316_Exploring_Contextual_Models_in_Chemical_Patent_Search/links/56f11e3208aecad0f31f2394/Exploring-Contextual-Models-in-Chemical-Patent-Search.pdf)
 * Bashir and Rauber, 2010, [Improving retrievability of patents in prior-art search](https://publik.tuwien.ac.at/files/PubDat_191980.pdf)
+* Takeuchi et al., 2004, [Experiments on Patent Retrieval at NTCIR-4 Workshop](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings4/PATENT/NTCIR4-PATENT-TakeuchiH.pdf)
