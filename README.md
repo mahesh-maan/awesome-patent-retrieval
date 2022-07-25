@@ -74,6 +74,7 @@ Curated list of resources for patent data mining
 * Choi et al., 2022, [Deep learning for patent landscaping using transformer and graph embedding](https://www.sciencedirect.com/science/article/abs/pii/S0040162521008441)
 * Chi and Wang, 2022, [Establish a patent risk prediction model for emerging technologies using deep learning and data augmentation](https://www.sciencedirect.com/science/article/abs/pii/S1474034621002585)
 * Lo and Chu, 2021, [Pre-trained Transformer-based Classification for Automated Patentability Examination](https://ieeexplore.ieee.org/abstract/document/9718474)
+* Bekamiri et al., 2021, [PatentSBERTa: A Deep NLP based Hybrid Model for Patent Distance and Classification using Augmented SBERT](https://arxiv.org/pdf/2103.11933.pdf)
 * Pujari et al., 2021, [A Multi-task Approach to Neural Multi-label Hierarchical Patent Classification Using Transformers](https://annefried.github.io/files/hierarchical_patent_classification_ecir2021.pdf)
 * Kumaravel and Sankaranarayanan, 2021, [PQPS: Prior-Art Query-Based Patent Summarizer Using RBM and Bi-LSTM](https://www.hindawi.com/journals/misy/2021/2497770/)
 * Setchi et al., 2021, [Artificial intelligence for patent prior art searching](https://www.sciencedirect.com/science/article/abs/pii/S017221902100003X?via%3Dihub)
