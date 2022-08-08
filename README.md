@@ -70,6 +70,9 @@ Curated list of resources for patent data mining
 * [Similari](https://similari.com/)
 
 ## Research papers
+* Choi et al., 2022, [A two-stage deep learning-based system for patent citation recommendation](https://link.springer.com/article/10.1007/s11192-022-04301-0)
+* Kim and Yoon, 2022, [Multi-document summarization for patent documents based on generative adversarial network](https://www.sciencedirect.com/science/article/pii/S0957417422012118)
+* Bekamiri et al., 2022, [A Survey on Sentence Embedding Models Performance for Patent Analysis](https://arxiv.org/abs/2206.02690)
 * Stamatis, 2022, [End to End Neural Retrieval for Patent Prior Art Search](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_66)
 * Jeon et al., 2022, [A doc2vec and local outlier factor approach to measuring the novelty of patents](https://www.sciencedirect.com/science/article/abs/pii/S0040162521007289)
 * Roudsari et al., 2022, [PatentNet: multi-label classification of patent documents using deep learning based language understanding](https://link.springer.com/article/10.1007/s11192-021-04179-4)
