@@ -70,6 +70,7 @@ Curated list of resources for patent data mining
 * [Similari](https://similari.com/)
 
 ## Research papers
+* Lee et al. 2022, [A Fast and Scalable Algorithm for Prior Art Search](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9674893)
 * Nakamitsu et al. 2022, [Analyzing the Structure of U.S. Patents Using Patent Families](http://nlp.indsys.chuo-u.ac.jp/pdf/2022/nakamitsu_eskm2022.pdf)
 * Choi et al., 2022, [A two-stage deep learning-based system for patent citation recommendation](https://link.springer.com/article/10.1007/s11192-022-04301-0)
 * Kim and Yoon, 2022, [Multi-document summarization for patent documents based on generative adversarial network](https://www.sciencedirect.com/science/article/pii/S0957417422012118)
