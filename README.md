@@ -71,6 +71,7 @@ Curated list of resources for patent data mining
 
 ## Research papers
 
+* Li et al., 2022, [CoPatE: A Novel Contrastive Learning Framework for Patent Embeddings](https://dl.acm.org/doi/abs/10.1145/3511808.3557270)
 * Lee et al., 2022, [Multimodal Deep Learning for Patent Classification](https://link.springer.com/chapter/10.1007/978-981-16-2102-4_26)
 * Lee et al. 2022, [A Fast and Scalable Algorithm for Prior Art Search](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9674893)
 * Nakamitsu et al. 2022, [Analyzing the Structure of U.S. Patents Using Patent Families](http://nlp.indsys.chuo-u.ac.jp/pdf/2022/nakamitsu_eskm2022.pdf)
