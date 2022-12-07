@@ -1,5 +1,6 @@
 # Awesome Patent Data Mining
-Curated list of resources for patent data mining
+
+This is a curated list of resources for patent data mining, information retrieval from patent databases, patent data sources, etc.
 
 ## Patent data sources
 
