@@ -72,6 +72,7 @@ This is a curated list of resources for patent data mining, information retrieva
 
 ## Research papers
 
+* Siddharth and Luo, 2023, [Towards Populating Generalizable Engineering Design Knowledge](https://arxiv.org/abs/2307.06985)
 * Geng and Wang, 2022, [An SDN architecture for patent prior art search system based on phrase embedding](https://link.springer.com/article/10.1007/s10515-022-00360-y)
 * Li et al., 2022, [CoPatE: A Novel Contrastive Learning Framework for Patent Embeddings](https://dl.acm.org/doi/abs/10.1145/3511808.3557270)
 * Lee et al., 2022, [Multimodal Deep Learning for Patent Classification](https://link.springer.com/chapter/10.1007/978-981-16-2102-4_26)
