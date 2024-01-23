@@ -70,6 +70,10 @@ This is a curated list of resources for patent data mining, information retrieva
 * [Dorothy AI](https://www.dorothyai.com/)
 * [Similari](https://similari.com/)
 
+## Other tools
+
+* [Patent Plus - Chrome extension for augmenting Google Patents UI](https://getpatentplus.com/)
+
 ## Research papers
 
 * Liu et al., 2023, [Multi-task learning based high-value patent and standard-essential patent identification model](https://www.sciencedirect.com/science/article/abs/pii/S030645732300064X)
