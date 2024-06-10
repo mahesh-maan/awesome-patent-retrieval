@@ -39,6 +39,12 @@ This is a curated list of resources for patent data mining, information retrieva
 * [World Intellectual Property Organization (WIPO)](https://www.wipo.int/)
 * [Japan Patent Office (JPO)](https://www.jpo.go.jp/e/)
 * [China National Intellectual Property Administration](https://english.cnipa.gov.cn/)
+* [Austrian Patent Office](https://see-ip.patentamt.at/)
+* [Belgian Patent Office](http://bpp.economie.fgov.be/fo-eregister-view/#/query/KG51bW1lcjooMTAyMDU5NikpIEFORCBwYXRlbnRSZWNvcmRTZXE6MQ==)
+* [Patent Office of Bulgaria](https://portal.bpo.bg/bpo_online/-/bpo/patent-search)
+* [Canadian Patent Office](http://www.ic.gc.ca/opic-cipo/cpd/eng/search/number.html)
+* [Patent Office of Colombia](https://www.ip-coster.com/IPGuides/patent-colombia)
+* [Patent Office of Croatia](https://www.dziv.hr/en/e-services/e-registers/patents/)
 
 ## Free patent search engines
 
