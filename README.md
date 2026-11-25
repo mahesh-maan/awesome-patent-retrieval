@@ -7,6 +7,7 @@ This is a curated list of resources for patent data mining, information retrieva
 ### APIs
 * [USPTO API](https://developer.uspto.gov/api-catalog)
 * [USPTO PatentsView API](https://patentsview.org/apis/api-endpoints)
+* [PatentRef API](https://patentref.io/docs/) - PatentsView-compatible API for US patent grants since 1976 (same paths and q, f, s, o parameters), with claim trees and maintenance-fee status. Free key.
 * [Espacenet Open Patent Services](https://www.epo.org/searching-for-patents/data/web-services/ops.html)
 * [Google Patents Public Datasets](https://console.cloud.google.com/marketplace/product/google_patents_public_datasets/google-patents-public-data)
 * [PQAI API](https://api.projectpq.ai/docs)
